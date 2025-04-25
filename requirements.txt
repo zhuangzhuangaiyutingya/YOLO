@@ -1,6 +1,8 @@
-numpy==2.2.5
-Pillow
+# requirements.txt
+--extra-index-url https://download.pytorch.org/whl/cpu
+numpy==1.26.4
+Pillow==10.3.0
 streamlit==1.44.0
-torch
+torch==2.3.0
 ultralytics==8.3.55
-opencv-python
+opencv-python-headless==4.9.0.80
