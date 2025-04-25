@@ -1,8 +1,8 @@
-# requirements.txt
+--index-url https://pypi.tuna.tsinghua.edu.cn/simple
 --extra-index-url https://download.pytorch.org/whl/cpu
+
+opencv-python-headless==4.11.0.86  # 支持Python 3.12的最新版
 numpy==1.26.4
-Pillow==10.3.0
-streamlit==1.44.0
 torch==2.3.0
 ultralytics==8.3.55
-opencv-python-headless==4.9.0.80
+streamlit==1.44.0
