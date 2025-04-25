@@ -1,0 +1,6 @@
+numpy==2.2.5
+Pillow==9.5.0
+Pillow==11.2.1
+streamlit==1.44.0
+torch==2.4.1+cu118
+ultralytics==8.3.55
